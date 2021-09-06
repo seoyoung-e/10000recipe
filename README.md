@@ -1,5 +1,5 @@
 # 만개의 레시피 
-https://www.10000recipe.com/
+https://www.10000recipe.com/<br>
 **BOAZ 분석 미니 프로젝트**
 - 크롤링 및 지닌 재료 기반 레시피 추천<br>
 
